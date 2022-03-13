@@ -2,7 +2,7 @@
 
 <h3> Sobre mim </h3>
 
- <p>👨🏻‍💻 Iniciando minha carreira de DEV e utilizando o GitHub como porta de entrada para o mundo da programação.</p>
+ <p>👨🏻‍💻 Iniciando minha carreira de DEV e utilizando o GitHub como uma das portas de entrada para o mundo da programação.</p>
  <p>🎓 Cursando Análise e Desenvolvimento de Sistemas na Estácio.</p>
  <p>💼 Trabalho atualmente como Head of Sales & Business Development.</p>
  <p>🌎 Entre São Paulo, SP e São Pedro, SP - Brasil.</p>
