@@ -1,11 +1,22 @@
-## Bem-vindo(a) ao meu perfil! 😄
+## Bem-vindo(a) ao meu perfil! 😄 🇧🇷
 
 <h3> Sobre mim </h3>
 
  <p>👨🏻‍💻 Iniciando minha carreira de DEV e utilizando o GitHub como uma das portas de entrada para o mundo da programação.</p>
- <p>🎓 Cursando Análise e Desenvolvimento de Sistemas na Estácio.</p>
+ <p>🎓 Cursando Análise e Desenvolvimento de Sistemas na Estácio - 1/5 semestres.</p>
  <p>💼 Trabalho atualmente como Head of Sales & Business Development.</p>
  <p>🌎 Entre São Paulo, SP e São Pedro, SP - Brasil.</p>
+ 
+ <br>
+ 
+ ## Welcome to my profile! 😄 🇺🇸
+
+ <h3> About me </h3>
+ 
+ <p>👨🏻‍💻 Starting my DEV career and using GitHub as one of the welcome gateways to the programming world.</p>
+ <p>🎓 Studying Software Analysis and Development at Estácio - 1/5 semesters.</p>
+ <p>💼 I currently work as a Head of Sales & Business Development.</p>
+ <p>🌎 Living between São Paulo, SP and São Pedro, SP - Brazil.</p>
 
 <br>
 
@@ -17,7 +28,7 @@
   
   <br>
   
-## 🛠 Ferramentas e tecnologias
+## 🛠 Ferramentas e tecnologias / Tools and technologies
   
   <img align="center" alt="HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -31,7 +42,7 @@
  
  <br>
  
-## 🤝🏻 Conecte-se comigo
+## 🤝🏻 Conecte-se comigo / Connect with me
  
 <div> 
   <a href="https://www.linkedin.com/in/joaoguilhermepdepaula/" target="_blank"><img height="30" width="100" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
