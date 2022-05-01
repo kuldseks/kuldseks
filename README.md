@@ -34,7 +34,11 @@
   <img align="center" alt="CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Bootstrap" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" />
+  <img align="center" alt="Tailwindcss" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg">
   <img align="center" alt="Git" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+          
+ 
+
 
 
 
@@ -45,7 +49,7 @@
 ## 🤝🏻 Conecte-se comigo / Connect with me
  
 <div> 
-  <a href="https://www.linkedin.com/in/joaoguilhermepdepaula/" target="_blank"><img height="30" width="100" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/kuldseks/" target="_blank"><img height="30" width="100" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href = "mailto:joaoguilhermegl3@gmail.com"><img height="30" width="100" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
 
